@@ -72,7 +72,7 @@ const Dashboard = () => {
                                                 <td>{student.email}</td>
                                                 <td>{new Date(student.createdAt).toLocaleDateString()}</td>
                                             </tr>
-                                        ))}
+                                        ))} aljfldjla slajfsldjfa;jadsldfjasikf
                                     </tbody>
                                 </table>
                             </div>
